@@ -1,6 +1,5 @@
-Nick: 
-  first_name: "Nick"
-  last_name: "Dubus"
-  profile_name: "nickdubus"
-  email: "nico.dubus17@gmail.com"
-  encrypted_password: "$2a$10$8uCZ9wCTsFoqa0aIfpssne4qtchcpqhepdU5WylZwh4GBAk"
+jason:
+  first_name: "Jason"
+  last_name: "Seifer"
+  email: "jason@teamtreehouse.com"
+  profile_name: "jasonseifer"
